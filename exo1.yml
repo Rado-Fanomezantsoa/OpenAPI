@@ -15,4 +15,3 @@ paths:
               schema:
                 type: string
                 example: pong
-                
